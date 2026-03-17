@@ -30,4 +30,4 @@ At [Stanford](https://med.stanford.edu/cardenas-lab.html), I develop epigenetic 
 
 My doctoral work at UCLA focused on air pollution and Parkinson's disease, examining [gene–environment interactions](https://doi:10.1001/jamanetworkopen.2025.0854) and metabolomic signatures. I also investigated the relationship between diet, the [gut microbiome](https://doi.org/10.1038/s41531-024-00681-7), and Parkinson's disease.
 
-Prior to UCLA, at [Columbia](https://www.belskylab.com/), I quantified biological aging from blood-based biomarkers and developed the [BioAge](https://github.com/dayoonkwon/BioAge) R package.
+Prior to UCLA, at [Columbia](https://www.belskylab.com/), I quantified biological aging from blood-based clinical biomarkers and developed the [BioAge R package](https://github.com/dayoonkwon/BioAge) to provide researchers with an accessible tool for calculating biological age across diverse datasets.
