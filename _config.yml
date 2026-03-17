@@ -278,8 +278,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Kwon]
+  first_name: [Dayoon, D.]
+  scholar_userid: "5L9djqsAAAAJ"
 
   style: apa
   locale: en
