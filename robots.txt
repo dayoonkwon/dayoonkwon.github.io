@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dayoonkwon.github.io/sitemap.xml
+Sitemap: https://dayoonkwon.com/sitemap.xml
