@@ -3,9 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Postdoctoral Scholar <br>
-  <a href="https://med.stanford.edu/cardenas-lab.html">Department of Epidemiology &amp; Population Health · Stanford University</a>
-
+  <a href="https://med.stanford.edu/cardenas-lab.html">Postdoctoral Scholar · Department of Epidemiology · Stanford University</a>
 profile:
   align: right
   image: prof_pic.jpg
