@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an environmental epidemiologist leveraging multi-omics data to investigate how environmental exposures shape human health across the life course. My research integrates epidemiology, systems biology, and data science to uncover biological mechanisms linking the environment to chronic disease and aging.
+I am an environmental epidemiologist leveraging multi-omics data to investigate how environmental exposures shape human health across the life course. 
 
 At Stanford, I develop epigenetic biomarkers and aging clocks to understand how early-life exposures influence long-term health trajectories.
 
