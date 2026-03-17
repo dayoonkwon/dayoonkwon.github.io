@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://med.stanford.edu/cardenas-lab.html">Postdoctoral Scholar · Department of Epidemiology · Stanford University</a>
+  <a href="https://med.stanford.edu/cardenas-lab.html">Postdoctoral Scholar · Department of Epidemiology and Population Health · Stanford University</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -26,7 +26,7 @@ latest_posts:
 
 I am an epidemiologist using omics data to study how the environment shapes human health throughout the life course. 
 
-At Stanford, I develop epigenetic biomarkers and clocks to understand how early-life environmental exposures influence aging.
+At Stanford, I develop epigenetic biomarkers and clocks to capture the impact of early-life exposures.
 
 My doctoral work at UCLA focused on air pollution and Parkinson's disease, examining gene-environment interactions and metabolomic profiles. I also investigated the relationship between the gut microbiome, diet, and Parkinson. 
 
