@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar · Department of Epidemiology · Stanford University
+subtitle: >
+  Postdoctoral Scholar · 
+  <a href="https://med.stanford.edu/cardenas-lab.html">Department of Epidemiology & Population Health</a> · 
+  Stanford University
 
 profile:
   align: right
