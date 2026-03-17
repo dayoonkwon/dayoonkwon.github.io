@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://med.stanford.edu/cardenas-lab.html">Postdoctoral Scholar · Department of Epidemiology and Population Health · Stanford University</a>
+  <a href="https://profiles.stanford.edu/dayoon-kwon">Postdoctoral Scholar · Department of Epidemiology and Population Health · Stanford University</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -24,10 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an epidemiologist using omics data to study how the environment shapes human health throughout the life course. 
-
-At Stanford, I develop epigenetic biomarkers and clocks to capture the impact of early-life exposures.
-
-My doctoral work at UCLA focused on air pollution and Parkinson's disease, examining gene-environment interactions and metabolomic profiles. I also investigated the relationship between the gut microbiome, diet, and Parkinson. 
-
-Before UCLA, I worked at Columbia University, quantifying biological aging from blood-chemistry data.
+I am an environmental epidemiologist leveraging multi-omics data to investigate how environmental exposures shape human health across the life course. My research integrates epidemiology, systems biology, and data science to uncover biological mechanisms linking the environment to brain health.
+At <a href="https://med.stanford.edu/cardenas-lab.html">Stanford</a>, I develop epigenetic biomarkers and aging clocks to understand how early-life exposures influence long-term health trajectories.
+My doctoral work at UCLA focused on air pollution and Parkinson's disease, examining gene–environment interactions and metabolomic profiles to understand how genetic susceptibility and biological pathways modify disease risk. I also investigated the relationship between diet, the gut microbiome, and Parkinson's disease.
+Prior to UCLA, at <a href="https://www.belskylab.com/">Columbia University</a>, I quantified biological aging from blood-based biomarkers and developed the <a href="https://github.com/dayoonkwon/BioAge">BioAge R package</a>, providing researchers with an accessible tool for calculating biological age across diverse datasets.
