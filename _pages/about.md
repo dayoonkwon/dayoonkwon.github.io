@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<a href="https://med.stanford.edu/cardenas-lab.html">Postdoctoral Scholar · Department of Epidemiology & Population Health · Stanford University</a> 
+  <a href="https://med.stanford.edu/cardenas-lab.html">Postdoctoral Scholar · Department of Epidemiology &amp; Population Health · Stanford University</a>
 
 profile:
   align: right
