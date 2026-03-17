@@ -142,7 +142,7 @@ html[data-theme-setting="dark"] {
 
 html[data-theme-setting="light"] {
   #light-toggle-system {
-    display: none;
+    display: inline-block;
   }
 
   #light-toggle-dark {
@@ -150,7 +150,7 @@ html[data-theme-setting="light"] {
   }
 
   #light-toggle-light {
-    display: inline-block;
+    display: none;
   }
 }
 
