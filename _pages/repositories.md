@@ -17,8 +17,6 @@ nav_order: 3
   {% endfor %}
 </div>
 
----
-
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
