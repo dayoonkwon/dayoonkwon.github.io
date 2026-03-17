@@ -186,3 +186,11 @@
 .citation-number {
   color: var(--global-theme-color);
 }
+
+.profile {
+  img {
+    max-width: 250px !important;
+    width: 250px !important;
+  }
+}
+
