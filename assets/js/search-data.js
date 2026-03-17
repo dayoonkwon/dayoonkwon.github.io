@@ -479,20 +479,6 @@ ninja.data = [{
           window.open("https://github.com/dayoonkwon", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/DayoonKwon", "_blank");
-        },
-      },{
-        id: 'social-researchgate',
-        title: 'ResearchGate',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Dayoon-Kwon/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
