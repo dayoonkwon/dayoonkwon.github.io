@@ -37,3 +37,18 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+}
+
+.badges {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+  margin-top: 0 !important;
+}
