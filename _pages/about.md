@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://profiles.stanford.edu/dayoon-kwon">Postdoctoral Scholar · Department of Epidemiology and Population Health · Stanford University</a>
+  <a href="https://profiles.stanford.edu/dayoon-kwon">Postdoctoral Scholar · Department of Epidemiology &amp; Population Health · Stanford University</a>
 profile:
   align: right
   image: prof_pic.jpg
