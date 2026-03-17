@@ -25,6 +25,9 @@ latest_posts:
 ---
 
 I am an environmental epidemiologist leveraging multi-omics data to investigate how environmental exposures shape human health across the life course. My research integrates epidemiology, systems biology, and data science to uncover biological mechanisms linking the environment to brain health.
-At <a href="https://med.stanford.edu/cardenas-lab.html">Stanford</a>, I develop epigenetic biomarkers and aging clocks to understand how early-life exposures influence long-term health trajectories.
+
+At Stanford University, I develop epigenetic biomarkers and aging clocks to understand how early-life exposures influence long-term health trajectories.
+
 My doctoral work at UCLA focused on air pollution and Parkinson's disease, examining gene–environment interactions and metabolomic profiles to understand how genetic susceptibility and biological pathways modify disease risk. I also investigated the relationship between diet, the gut microbiome, and Parkinson's disease.
-Prior to UCLA, at <a href="https://www.belskylab.com/">Columbia University</a>, I quantified biological aging from blood-based biomarkers and developed the <a href="https://github.com/dayoonkwon/BioAge">BioAge R package</a>, providing researchers with an accessible tool for calculating biological age across diverse datasets.
+
+Prior to UCLA, at Columbia University, I quantified biological aging from blood-based biomarkers and developed the BioAge R package, providing researchers with an accessible tool for calculating biological age across diverse datasets.
