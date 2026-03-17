@@ -6,8 +6,13 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Dayoon
 middle_name: 
 last_name: Kwon
+email: dayoonk@stanford.edu
+github_username: dayoonkwon
+linkedin_username: dayoonkwon
+twitter_username: DayoonKwon
+scholar_userid: "5L9djqsAAAAJ"
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you are a potential collaborator, journalist, or student interested in my work, please feel free to reach out by clicking on the icons listed below.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
