@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+h1.post-title { display: none; }
+</style>
+
 {% if site.data.repositories.github_repos %}
 
 ## selected repositories
