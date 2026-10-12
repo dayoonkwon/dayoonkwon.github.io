@@ -37,7 +37,7 @@ To understand mechanisms, I used [untargeted serum metabolomics](https://doi.org
   Metabolic pathways enriched among air pollution-associated serum metabolites in PEG.
 </div>
 
-A [narrative review](https://doi.org/10.1016/j.envres.2025.121597) summarizes research on air pollution and neurodegenerative diseases, including ADRD, and the challenges ahead: earlier exposure windows, PM<sub>2.5</sub> constituents and wildfire smoke, and comorbidities such as cardiovascular disease.
+A [narrative review](https://doi.org/10.1016/j.envres.2025.121597) summarizes research on air pollution and neurodegenerative diseases, including Alzheimer's disease and related dementias, and the challenges ahead: earlier exposure windows, PM<sub>2.5</sub> constituents, and comorbidities such as cardiovascular disease.
 
 ### Selected References
 
