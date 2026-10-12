@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-repositories",
+  },{id: "nav-research",
+          title: "research",
+          description: "From environmental exposure, to molecular embedding, to disease.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
+          },
+        },{id: "nav-repositories",
           title: "repositories",
           description: "",
           section: "Navigation",
