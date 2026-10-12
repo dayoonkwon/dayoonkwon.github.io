@@ -413,7 +413,7 @@ ninja.data = [{
           title: 'Air pollution and Parkinson&amp;#39;s disease',
           description: "How air pollution, genes, and metabolism combine to shape Parkinson&#39;s disease",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/air-pollution-brain/";
+              window.location.href = "/projects/air-pollution-pd/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
