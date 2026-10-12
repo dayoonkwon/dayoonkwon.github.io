@@ -20,7 +20,7 @@ Genetic susceptibility amplified the association. In a [meta-analysis of PEG and
 To understand mechanisms, I used [untargeted serum metabolomics](https://doi.org/10.1038/s41531-026-01451-3). Air pollution exposure was associated with altered lipid and amino acid metabolism and lower tyrosine, a precursor of dopamine, pointing to inflammation and mitochondrial dysfunction as plausible pathways.
 
 <div class="row justify-content-center">
-  <div class="col-md-6 mt-3 mb-2">
+  <div class="col-md-8 mt-3 mb-2">
     {% include figure.liquid path="assets/img/projects/ap-pd-metabolomics.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Metabolic pathways enriched among air pollution-associated serum metabolites in PEG." %}
   </div>
 </div>
