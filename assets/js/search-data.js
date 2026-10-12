@@ -409,12 +409,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-air-pollution-and-the-brain",
-          title: 'Air pollution and the brain',
-          description: "How traffic-related air pollution, genes, and metabolism combine to shape Parkinson&#39;s disease risk.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/air-pollution-brain/";
-            },},{id: "projects-tools-for-measuring-biological-aging",
+          section: "News",},{id: "projects-tools-for-measuring-biological-aging",
           title: 'Tools for measuring biological aging',
           description: "Open-source software that makes biological age measurable across cohorts.",
           section: "Projects",handler: () => {
