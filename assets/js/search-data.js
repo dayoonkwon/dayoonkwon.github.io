@@ -414,11 +414,6 @@ ninja.data = [{
           description: "How air pollution, genes, and metabolism combine to shape Parkinson&#39;s disease",
           section: "Projects",handler: () => {
               window.location.href = "/projects/air-pollution-brain/";
-            },},{id: "projects-tools-for-measuring-biological-aging",
-          title: 'Tools for measuring biological aging',
-          description: "Open-source software that makes biological age measurable across cohorts.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/biological-aging-tools/";
             },},{id: "projects-omics-biomarkers-of-exposure-and-aging",
           title: 'Omics biomarkers of exposure and aging',
           description: "Epigenetic signatures and aging clocks that capture how exposures become biologically embedded.",
