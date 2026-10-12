@@ -16,13 +16,8 @@ My work draws on the Parkinson's Environment and Genes (PEG) study in California
 Genetic susceptibility amplified the association. In a [meta-analysis of PEG and a Danish study](https://doi.org/10.1001/jamanetworkopen.2025.0854), people with both a high PD polygenic risk score and high exposure had about 3 times the odds of PD compared with people who had neither.
 
 <div class="row justify-content-center">
-  <div class="col-md-7 mt-3">
-    {% include figure.liquid path="assets/img/projects/ap-pd-prs.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="row justify-content-center">
-  <div class="col-md-7 caption mt-n3 mb-3">
-  Odds of Parkinson's disease by polygenic risk score and traffic-related air pollution exposure, meta-analysis of PEG and the Danish PASIDA study.
+  <div class="col-md-5 mt-3 mb-2">
+    {% include figure.liquid path="assets/img/projects/ap-pd-prs.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Odds of Parkinson's disease by polygenic risk score and traffic-related air pollution exposure, meta-analysis of PEG and the Danish PASIDA study." %}
   </div>
 </div>
 
@@ -31,13 +26,8 @@ Genetic susceptibility amplified the association. In a [meta-analysis of PEG and
 To understand mechanisms, I used [untargeted serum metabolomics](https://doi.org/10.1038/s41531-026-01451-3). Air pollution exposure was associated with altered lipid and amino acid metabolism and lower tyrosine, a precursor of dopamine, pointing to inflammation and mitochondrial dysfunction as plausible pathways.
 
 <div class="row justify-content-center">
-  <div class="col-md-7 mt-3">
-    {% include figure.liquid path="assets/img/projects/ap-pd-metabolomics.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-  </div>
-</div>
-<div class="row justify-content-center">
-  <div class="col-md-7 caption mt-n3 mb-3">
-  Metabolic pathways enriched among air pollution-associated serum metabolites in PEG.
+  <div class="col-md-5 mt-3 mb-2">
+    {% include figure.liquid path="assets/img/projects/ap-pd-metabolomics.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Metabolic pathways enriched among air pollution-associated serum metabolites in PEG." %}
   </div>
 </div>
 
