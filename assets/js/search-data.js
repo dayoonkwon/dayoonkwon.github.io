@@ -409,7 +409,27 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
+          section: "News",},{id: "projects-air-pollution-and-the-brain",
+          title: 'Air pollution and the brain',
+          description: "How traffic-related air pollution, genes, and metabolism combine to shape Parkinson&#39;s disease risk.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/air-pollution-brain/";
+            },},{id: "projects-tools-for-measuring-biological-aging",
+          title: 'Tools for measuring biological aging',
+          description: "Open-source software that makes biological age measurable across cohorts.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/biological-aging-tools/";
+            },},{id: "projects-diet-the-gut-microbiome-and-parkinson-39-s-disease",
+          title: 'Diet, the gut microbiome, and Parkinson&amp;#39;s disease',
+          description: "How diet shapes the gut microbiome and host metabolism in people living with Parkinson&#39;s disease.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/diet-microbiome-pd/";
+            },},{id: "projects-omics-biomarkers-of-exposure-and-aging",
+          title: 'Omics biomarkers of exposure and aging',
+          description: "Epigenetic signatures and aging clocks that capture how exposures become biologically embedded.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/omics-exposure-aging/";
+            },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
