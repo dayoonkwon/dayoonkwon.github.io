@@ -5,11 +5,11 @@ description: How air pollution, genes, and metabolism combine to shape Parkinson
 importance: 1
 ---
 
-Air pollution is one of the few risk factors for neurodegeneration that nearly everyone shares and that policy can change. I study how long-term exposure to traffic-related air pollution contributes to Parkinson's disease (PD), and which biological pathways carry that effect from the air into the brain.
+Air pollution is one of the few risk factors for neurodegeneration that nearly everyone shares and that policy can change. I study how air pollution exposure contributes to Parkinson's disease (PD), and which biological pathways carry that effect from the air into the brain.
 
 ### Air Pollution and PD
 
-My work draws on the Parkinson's Environment and Genes (PEG) study in California's Central Valley, with lifetime residential and workplace address histories. In PEG, [long-term exposure to traffic-related air pollution](https://doi.org/10.1016/j.envres.2023.117434) was associated with higher odds of PD. Criteria pollutants such as NO<sub>2</sub> and PM<sub>2.5</sub> cannot identify which constituents matter, so I also examined [specific air toxics](https://doi.org/10.1016/j.scitotenv.2026.181999) and found the most consistent associations for nickel, benzene, and 1,3-butadiene.
+My work draws on the Parkinson's Environment and Genes (PEG) study in California's Central Valley, with lifetime residential and workplace address histories. In PEG, [long-term exposure to traffic-related air pollution](https://doi.org/10.1016/j.envres.2023.117434) was associated with higher odds of PD. Criteria pollutants such as NO<sub>2</sub> and PM<sub>2.5</sub> cannot identify which constituents matter, so I also examined [specific air toxics](https://doi.org/10.1016/j.scitotenv.2026.181999) and found the most consistent associations for nickel.
 
 ### Genetic Susceptibility
 
