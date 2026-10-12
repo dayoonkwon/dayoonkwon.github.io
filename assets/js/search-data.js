@@ -414,6 +414,11 @@ ninja.data = [{
           description: "How air pollution, genes, and metabolism combine to shape Parkinson&#39;s disease",
           section: "Projects",handler: () => {
               window.location.href = "/projects/air-pollution-pd/";
+            },},{id: "projects-tools-for-measuring-biological-aging",
+          title: 'Tools for measuring biological aging',
+          description: "Open-source software that makes biological age measurable across cohorts",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/biological-aging-tools/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
