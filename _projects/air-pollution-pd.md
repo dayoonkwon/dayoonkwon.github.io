@@ -9,7 +9,7 @@ Air pollution is one of the few risk factors for neurodegeneration that nearly e
 
 ### Air Pollution and PD
 
-My work draws on the Parkinson's Environment and Genes (PEG) study in California's Central Valley, with lifetime residential and workplace address histories. In PEG, [long-term exposure to traffic-related air pollution](https://doi.org/10.1016/j.envres.2023.117434) was associated with higher odds of PD. Criteria pollutants such as NO<sub>2</sub> and PM<sub>2.5</sub> cannot identify which constituents matter, so I also examined [specific air toxics](https://doi.org/10.1016/j.scitotenv.2026.181999) and found the most consistent associations for nickel.
+My work draws on the Parkinson's Environment and Genes (PEG) study in California's Central Valley, with lifetime residential and workplace address histories. In PEG, [long-term exposure to traffic-related air pollution](https://doi.org/10.1016/j.envres.2023.117434) was associated with higher odds of PD. Criteria pollutants such as NO<sub>2</sub> and PM<sub>2.5</sub> cannot identify which constituents matter, so I also examined [specific air toxics](https://doi.org/10.1016/j.scitotenv.2026.181999) and found the most consistent associations for nickel, benzene, and 1,3-butadiene.
 
 ### Genetic Susceptibility
 
@@ -20,7 +20,7 @@ Genetic susceptibility amplified the association. In a [meta-analysis of PEG and
     {% include figure.liquid path="assets/img/projects/ap-pd-prs.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">
+<div class="caption mt-2">
   Odds of Parkinson's disease by polygenic risk score and traffic-related air pollution exposure, meta-analysis of PEG and the Danish PASIDA study.
 </div>
 
@@ -33,7 +33,7 @@ To understand mechanisms, I used [untargeted serum metabolomics](https://doi.org
     {% include figure.liquid path="assets/img/projects/ap-pd-metabolomics.png" class="img-fluid rounded z-depth-1" zoomable=true %}
   </div>
 </div>
-<div class="caption">
+<div class="caption mt-2">
   Metabolic pathways enriched among air pollution-associated serum metabolites in PEG.
 </div>
 
