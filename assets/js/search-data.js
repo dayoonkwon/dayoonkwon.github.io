@@ -419,6 +419,11 @@ ninja.data = [{
           description: "Open-source software that makes biological age measurable across cohorts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biological-aging-tools/";
+            },},{id: "projects-epigenetic-biomarkers-of-exposure-and-aging",
+          title: 'Epigenetic biomarkers of exposure and aging',
+          description: "DNA methylation signatures and epigenetic clocks that capture how exposures become biologically embedded",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/epigenetics-exposure-aging/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
