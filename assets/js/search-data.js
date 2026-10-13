@@ -419,6 +419,11 @@ ninja.data = [{
           description: "Open-source software that makes biological age measurable across cohorts",
           section: "Projects",handler: () => {
               window.location.href = "/projects/biological-aging-tools/";
+            },},{id: "projects-diet-the-gut-microbiome-and-parkinson-39-s-disease",
+          title: 'Diet, the gut microbiome, and Parkinson&amp;#39;s disease',
+          description: "How diet shapes the gut microbiome in Parkinson&#39;s disease",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/diet-microbiome-pd/";
             },},{id: "projects-epigenetic-biomarkers-of-exposure-and-aging",
           title: 'Epigenetic biomarkers of exposure and aging',
           description: "DNA methylation signatures and epigenetic clocks that capture how exposures become biologically embedded",
