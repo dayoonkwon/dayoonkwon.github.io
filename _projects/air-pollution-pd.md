@@ -2,7 +2,7 @@
 layout: page
 title: Air pollution and Parkinson's disease
 description: How air pollution, genes, and metabolism combine to shape Parkinson's disease
-importance: 1
+importance: 2
 ---
 
 Air pollution is one of the few risk factors for neurodegeneration that nearly everyone shares and that policy can change. I study how air pollution exposure contributes to Parkinson's disease (PD), and which biological pathways carry that effect from the air into the brain.
