@@ -8,7 +8,7 @@ github: https://github.com/dayoonkwon/BioAge
 
 People of the same age can be biologically older or younger than their years. Biological age measures that difference, and I develop open-source software so that researchers can compute it the same way across datasets.
 
-### BioAge R Package
+### BioAge R package
 
 I developed the [BioAge R package](https://doi.org/10.1007/s11357-021-00480-5), which implements three published methods for quantifying biological age from routine blood chemistry and organ function tests: Klemera-Doubal Method biological age, phenotypic age, and homeostatic dysregulation. The package trains the algorithms in NHANES and projects them onto new datasets, so that researchers can measure biological aging in their own cohorts.
 
@@ -18,7 +18,7 @@ These measures support studies of how everyday exposures relate to aging. For ex
 
 I also contributed to [Biolearn](https://doi.org/10.1038/s43587-025-00987-y), an open-source framework from the Biomarkers of Aging Consortium that standardizes the evaluation of 39 aging biomarkers across more than 20,000 individuals.
 
-### Selected References
+### Selected references
 
 Kwon D, Belsky DW. [A toolkit for quantification of biological age from blood chemistry and organ function test data: BioAge](https://doi.org/10.1007/s11357-021-00480-5). *GeroScience*. 2021.
 
